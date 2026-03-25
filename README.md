@@ -1,1 +1,2 @@
-# ai-projects
+# GenAI application using Spring AI
+
